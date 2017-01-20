@@ -1551,6 +1551,7 @@ span.meta-date{
 
 
 
+
 @media print {
-    #edu {page-break-after: always;}
+    #exprnc {page-break-before: always;}
 }
