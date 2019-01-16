@@ -3855,7 +3855,7 @@ th {
 --------------------------------------------------------------*/
 /* ############# Start Version1 Experience CSS ############# */
 .version1 .wexp {
-  padding: 225px 0 638px; }
+  padding: 225px 0 350px; }
   @media (max-width: 1024px) {
     .version1 .wexp {
       padding: 35px 0px 30px; } }
@@ -3962,7 +3962,7 @@ th {
         .version1 .wexp .single-block .single-block-outer .single-block-inner .e-sub-head {
           margin-bottom: 10px;
           font-size: 14px;
-          color: #555555;
+          color: #dc1f61;
           -webkit-transform: rotate(-45deg) translate(-10px, -24px);
           -moz-transform: rotate(-45deg) translate(-10px, -24px);
           -ms-transform: rotate(-45deg) translate(-10px, -24px);
