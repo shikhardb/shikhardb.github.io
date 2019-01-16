@@ -5207,4 +5207,8 @@ th {
     .version1 .hire-me .genric-btn2:hover {
       box-shadow: none; }
 
+.error {
+  color: red !important;
+}
+
 /*# sourceMappingURL=main.css.map */
